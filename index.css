@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+
+#generate-el {
+    color: whitesmoke;
+}
+
+#random-el {
+    color: green;
+}
+
+#never-el {
+    color: bisque;
+}
+
+#password-el {
+    background-color: green;
+}
+
+#password-1 {
+    background-color: white;
+}
+
+#password-2 {
+    background-color: white;
+}
+
+button {
+    background-color: white;
+}
